@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SumOfInput
+comment0.text=\n\ Write\ a\ description\ of\ class\ SumOfInput\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SumOfInput()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SumOfInput\n
+comment2.params=numberToSum
+comment2.target=java.lang.Integer\ oneToNumber(java.lang.Integer)
+numComments=3
